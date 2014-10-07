@@ -1,0 +1,14 @@
+{
+  "master": {
+    "ftp_base": "https://ftp.mozilla.org/pub/b2g/tinderbox-builds/mozilla-central-",
+    "hg_repo": "http://hg.mozilla.org/mozilla-central"
+  },
+  "v2.1": {
+    "ftp_base": "https://ftp.mozilla.org/pub/b2g/tinderbox-builds/mozilla-aurora-",
+    "hg_repo": "http://hg.mozilla.org/releases/mozilla-aurora"
+  },
+  "v2.0": {
+    "ftp_base": "https://ftp.mozilla.org/pub/b2g/tinderbox-builds/mozilla-central-",
+    "hg_repo": "http://hg.mozilla.org/releases/mozilla-b2g32_v2_0"
+  }
+}
